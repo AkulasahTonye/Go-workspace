@@ -1,3 +1,4 @@
+package main
 func main() {
 
 	const conferenceTickets int = 50
